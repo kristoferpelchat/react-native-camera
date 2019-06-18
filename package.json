@@ -72,8 +72,6 @@
     "url": "https://github.com/react-native-community/react-native-camera.git"
   },
   "scripts": {
-    "commit": "git-cz",
-    "commitmsg": "commitlint -e $GIT_PARAMS",
     "lint": "eslint src --max-warnings=0",
     "lint:staged": "lint-staged",
     "prettier": "prettier --write",
